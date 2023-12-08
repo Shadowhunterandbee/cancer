@@ -1,2 +1,2 @@
 # cancer
-breast cncer
+breast cancer
